@@ -1,9 +1,6 @@
 ################ FiGS v 0.1
 
-
-
 #author: Roberto Bastone
-#mail : robertobastone93@gmail.com
 
 ####################################PACKAGES##################################
 # system
