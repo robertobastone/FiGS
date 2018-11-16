@@ -3,5 +3,5 @@ FiGS - FIts with Grid and Scalebar - is a Python script that reads a .fits file,
 
 # Milestones
 
-1. October, 30 2018: FiGS version 0.1
+1. October, 30 2018: FiGS version 0.1.0
    - minimally functioning code
